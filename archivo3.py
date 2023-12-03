@@ -1,1 +1,2 @@
-print('Tercer archivo como nuestra tercera estrella')
+print('En este archivo vamos a contarte algo importante')
+Console.log('Ganamos lka tercer estrella')
